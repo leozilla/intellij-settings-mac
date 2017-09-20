@@ -1,4 +1,10 @@
 <keymap version="1" name="Win Default" parent="Mac OS X 10.5+">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
