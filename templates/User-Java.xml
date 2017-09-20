@@ -1,0 +1,13 @@
+<templateSet group="User-Java">
+  <template name="ttest" value="@org.testng.annotations.Test&#10;public void $NAME$() {&#10;    // given&#10;    $END$&#10;    &#10;    // when&#10;    &#10;    // then&#10;    &#10;}" description="TestNG Test method" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="tbefore" value="@org.testng.annotations.BeforeTest&#10;public void beforeTest() {&#10;    $END$&#10;}" description="TestNG before Test" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
