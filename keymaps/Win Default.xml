@@ -5,6 +5,7 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="Exit" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -18,6 +19,7 @@
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="meta j" />
+    <keyboard-shortcut first-keystroke="meta q" />
   </action>
   <action id="RemoteHost.NewRemoteItem">
     <keyboard-shortcut first-keystroke="meta n" />
