@@ -2,6 +2,10 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
