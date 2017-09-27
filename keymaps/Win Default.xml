@@ -65,5 +65,7 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
-  <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
 </keymap>
