@@ -41,7 +41,7 @@
     <keyboard-shortcut first-keystroke="right" />
   </action>
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="meta w" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
