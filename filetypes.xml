@@ -4,6 +4,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="i" type="PLAIN_TEXT" />
       <mapping pattern="sftp_google_key_priv" type="PLAIN_TEXT" />
+      <mapping pattern="sample_response" type="PLAIN_TEXT" />
       <mapping pattern="google-sftp-prkey" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
