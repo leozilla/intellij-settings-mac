@@ -3,14 +3,15 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="pubmatic_response_multiple_seats" type="PLAIN_TEXT" />
-      <mapping pattern="i" type="PLAIN_TEXT" />
+      <mapping pattern="google-sftp-prkey" type="PLAIN_TEXT" />
       <mapping pattern="pubmatic_response_noseatbid" type="PLAIN_TEXT" />
+      <mapping pattern="i" type="PLAIN_TEXT" />
+      <mapping pattern="pubmatic_response_invalidprice" type="PLAIN_TEXT" />
       <mapping pattern="sftp_google_key_priv" type="PLAIN_TEXT" />
       <mapping pattern="pubmatic_response_nomarkup" type="PLAIN_TEXT" />
-      <mapping pattern="pubmatic_response_invalidprice" type="PLAIN_TEXT" />
-      <mapping pattern="sample_response" type="PLAIN_TEXT" />
       <mapping pattern="pubmatic_response_noprice" type="PLAIN_TEXT" />
-      <mapping pattern="google-sftp-prkey" type="PLAIN_TEXT" />
+      <mapping pattern="pubmatic_request" type="PLAIN_TEXT" />
+      <mapping pattern="sample_response" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
